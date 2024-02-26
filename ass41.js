@@ -1,3 +1,5 @@
+//Great Magicians:
+
 var magician_names = ["Huzaifa", "Aman", "Zaafr"];
 function show_magicians(magician_names) {
     magician_names.forEach(function (name) {
