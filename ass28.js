@@ -1,3 +1,5 @@
+//Favorite Fruit:
+
 var favorite_fruits = ["Mango", "watermellon", "Grapes"];
 if (favorite_fruits.indexOf("Mango") !== -1) {
     console.log("You really like Mango!");
