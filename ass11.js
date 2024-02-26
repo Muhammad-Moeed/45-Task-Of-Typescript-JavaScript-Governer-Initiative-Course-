@@ -1,3 +1,5 @@
+//Greetings:
+
 var myFriend = ["Ammar", "Ahmed", "Talha", "Huzaifa"];
 var msg = [" " + "Insha'Allah, there will be programmers very soon"];
 for (var i = 0; i < myFriend.length; i++) {
