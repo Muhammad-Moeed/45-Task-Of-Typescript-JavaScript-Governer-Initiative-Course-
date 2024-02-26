@@ -1,3 +1,5 @@
+//Intentional Error: 
+
 var Guest = ["Moeed", "Ammar", "Ahsan", "Ali"];
 console.log(Guest[10]) //Index Error
 
