@@ -1,3 +1,5 @@
+//Alien Colors #1: 
+
 var aliencolor = 'green';
 if (aliencolor === 'green') {
     console.log("Player just earned 5 points.");
