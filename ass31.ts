@@ -1,3 +1,5 @@
+//Checking Usernames:
+
 var current_users = ["Admin", "Moeed", "shahzaib", "Taha", "Talha"];
 var new_users = ["Admin", "Moeed", "Ammar", "Ahmed", "Talha"];
 
