@@ -1,3 +1,5 @@
+//Stripping Names:
+
 // Store the person's name with whitespace characters
 var Name = "\n   Moeed Qadri";
 // Print the name with whitespace
