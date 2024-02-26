@@ -1,3 +1,5 @@
+//Magicians:
+
 var magician_names = ["Huzaifa", "Aman", "Zaafr"];
 
 function show_magician(magician_names) {
