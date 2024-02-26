@@ -1,3 +1,5 @@
+//Large Shirts:
+
 function diff_shirt(size = "Large", message = "I love TypeScript") {
     console.log("Shirt size: "+ size + " Message: " + message);
 }
