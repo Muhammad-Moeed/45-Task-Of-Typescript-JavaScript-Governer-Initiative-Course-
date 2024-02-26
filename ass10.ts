@@ -1,3 +1,5 @@
+//Names:
+
 var myFriend = ["Ammar","Ahmed","Talha","Huzaifa"];
 console.log(myFriend[0]);
 console.log(myFriend[1]);
