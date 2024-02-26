@@ -1,3 +1,5 @@
+//Stripping Names:
+
 
 var Name = "\n   Moeed Qadri \t";
 
