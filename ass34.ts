@@ -1,3 +1,5 @@
+//Animals:
+
 var pets = ["Cat", "Goat", "Camel"]
 for (let i = 0; i < pets.length; i++) {
     if (pets[0] == "Cat") {
