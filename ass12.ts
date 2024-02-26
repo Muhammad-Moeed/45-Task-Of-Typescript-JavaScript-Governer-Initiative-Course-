@@ -1,4 +1,6 @@
- var msg = ["I would like to own a "];
+//Your Own Array:
+
+var msg = ["I would like to own a "];
  var Favoritemode = ["Audi Car.","Honda Motorsycle","patpati"];
 
  for (var i =0; i<msg.length;i++){
