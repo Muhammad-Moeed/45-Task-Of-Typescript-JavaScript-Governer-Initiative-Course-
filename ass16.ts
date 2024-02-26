@@ -1,3 +1,5 @@
+//Shrinking Guest List:
+
 var New_Guest = ["Ahmed","Ali","Bilal","Ammar","Huzaifa","Moeed",];
 console.log("Invite only two people for dinner.");
 var msg = ["Please come to our Dinner."];
