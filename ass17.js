@@ -1,3 +1,5 @@
+//Seeing the World:
+
 var places = ["Madinah", "Baghdad", "Ajmer", "Najaf", "Karbala"];
 // Print original order
 console.log("Original order:");
