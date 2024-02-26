@@ -1,3 +1,5 @@
+//Alien Colors #2: 
+
 var aliancolor = "green";
 if (aliancolor == "green") {
     console.log("Player just earned 5 points for shooting the alien.");
