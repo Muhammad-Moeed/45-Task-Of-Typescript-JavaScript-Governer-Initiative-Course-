@@ -1,3 +1,5 @@
+//Unchanged Magicians:
+
 var magician_names = ["Huzaifa", "Aman", "Zaafr"];
 var new_magicians = [];
 function makes_great(magician_names) {
