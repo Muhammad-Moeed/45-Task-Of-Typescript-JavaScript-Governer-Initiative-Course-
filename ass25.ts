@@ -1,3 +1,5 @@
+//Alien Colors #2: 
+
 //1nd Version IF statement Run
 
 var aliancolor = "green";
