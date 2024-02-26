@@ -1,3 +1,5 @@
+//Favorite Fruit:
+
 var fav_fruits: string[] = ["Mango", "watermellon", "Grapes"];
 
 if (fav_fruits.indexOf("Mango") !== -1) {
