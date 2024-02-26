@@ -1,3 +1,5 @@
+//Adding Comments:
+
 // My Name Is Muhammad Moeed 
 // Today Date : 14-Feb-2024
 // Store a person’s name, and include some whitespace characters at the beginning and end of the name.
