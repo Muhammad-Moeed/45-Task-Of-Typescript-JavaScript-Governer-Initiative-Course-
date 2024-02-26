@@ -1,3 +1,5 @@
+//Album:
+
 function make_album(artist_name, title, track) {
     if (track === void 0) { track = null; }
     var album = { artist: artist_name, title: title, track: track };
