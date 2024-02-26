@@ -1,3 +1,5 @@
+//Pizzas:
+
 var fav_pizza = ["Hot&Spicy Pizza","Fajita Pizza","Cheese Pizza"]
 for (let i = 0; i < fav_pizza.length; i++) {
     console.log("I like " +fav_pizza[i]);
